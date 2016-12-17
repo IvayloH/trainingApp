@@ -1,0 +1,50 @@
+﻿Duration: 40s
+Rest: 20s
+Repetitions: 3
+Bodyweight Squat
+Right Side Plank
+Right Leg Glute Bridge
+Burpee
+Left Side Plank
+Left Leg Glute Bridge
+Squats - 3s down into jump squat
+--
+Duration: 20s
+Rest: 10s
+Repetitions: 0
+Bodyweight Squat
+Press ups
+Alternating Lunges
+Plank up & downs
+Wide Squats
+Press up hold
+Duration: 30s
+Rest: 15s
+Repetitions: 0
+Squat with 3s hold at bottom
+High knees
+Press up on knees(fast tempo)
+Burpees
+Lunges with hands overhead
+Mountain climbers
+Duration: 40s
+Rest: 20s
+Repetitions: 0
+Squat jumps
+Mountain climbers
+Bunny hops
+High knees+boxing
+Thrusters
+--
+Duration: 10s
+Rest: 10s
+Repetitions: 0
+dsf
+--
+Duration: 3s
+Rest: 3s
+Repetitions: 2
+a
+b
+c
+!

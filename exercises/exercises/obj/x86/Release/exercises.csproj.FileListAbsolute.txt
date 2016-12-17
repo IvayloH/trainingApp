@@ -1,0 +1,16 @@
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\bin\Release\exercises.exe
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\bin\Release\exercises.pdb
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\exercises.Properties.Resources.resources
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\exercises.exe
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\exercises.pdb
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\bin\Release\Exercises.txt
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\exercises.AboutBox1.resources
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\exercises.addWorkout.resources
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\exercises.MainTab.resources
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\bin\Release\exercises.exe.manifest
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\bin\Release\exercises.application
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\exercises.exe.manifest
+C:\Users\Frozzen\documents\visual studio 2010\Projects\exercises\exercises\obj\x86\Release\exercises.application
